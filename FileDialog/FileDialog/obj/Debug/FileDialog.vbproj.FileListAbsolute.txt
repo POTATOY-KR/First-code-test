@@ -1,0 +1,18 @@
+D:\workspace\Sample\FileDialog\FileDialog\bin\Debug\FileDialog.exe.config
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\FileDialog.vbprojAssemblyReference.cache
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\FileDialog.vbproj.GenerateResource.cache
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\FileDialog.vbproj.CoreCompileInputs.cache
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\FileDialog.vbproj.CopyComplete
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\미터기 실행 자동화 프로그램 for 한섭.exe.config
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\미터기 실행 자동화 프로그램 for 한섭.exe
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\미터기 실행 자동화 프로그램 for 한섭.pdb
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\bin\Debug\미터기 실행 자동화 프로그램 for 한섭.xml
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\미터기 실행 자동화 프로그램 for 한섭.exe
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\미터기 실행 자동화 프로그램 for 한섭.xml
+C:\Users\POTATOY\source\repos\FileDialog\FileDialog\obj\Debug\미터기 실행 자동화 프로그램 for 한섭.pdb
